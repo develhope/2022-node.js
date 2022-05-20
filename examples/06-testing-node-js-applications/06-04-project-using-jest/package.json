@@ -1,0 +1,15 @@
+{
+  "name": "06-04-install-test-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Simon Plenderleith <simon@simonplend.co.uk> (https://simonplend.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}

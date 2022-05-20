@@ -1,0 +1,16 @@
+{
+  "name": "06-05-server-integration-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Simon Plenderleith <simon@simonplend.co.uk> (https://simonplend.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "supertest": "^6.2.3"
+  }
+}
