@@ -1,0 +1,22 @@
+{
+  "name": "api-project",
+  "scripts": {
+    "format": "prettier --write .",
+    "test": "jest"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonteaching/api-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/simonteaching/api-project/issues"
+  },
+  "homepage": "https://github.com/simonteaching/api-project#readme",
+  "devDependencies": {
+    "jest": "^28.0.3",
+    "prettier": "2.6.2"
+  }
+}
