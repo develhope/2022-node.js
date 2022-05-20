@@ -1,4 +1,4 @@
-# Exercises for Unit 4 - Create an HTTP server with Node.js
+# Exercises for Unit 4: Create an HTTP server with Node.js
 
 ## Exercise 1: Change the HTML response
 

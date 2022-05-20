@@ -1,4 +1,4 @@
-# Exercises for Unit 5 - Installing and using packages
+# Exercises for Unit 5: Installing and using packages
 
 ## Exercise 1: Command-line art
 

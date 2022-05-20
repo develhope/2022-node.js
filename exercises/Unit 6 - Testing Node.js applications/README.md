@@ -1,4 +1,4 @@
-# Exercises for Unit 6 - Testing Node.js applications
+# Exercises for Unit 6: Testing Node.js applications
 
 ## Exercise 1: Inspect an HTTP response with curl
 
