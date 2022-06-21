@@ -1,0 +1,15 @@
+{
+  "name": "16-01-oauth-auth-flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -p 8080"
+  },
+  "keywords": [],
+  "author": "Simon Plenderleith <simon@simonplend.co.uk> (https://simonplend.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}

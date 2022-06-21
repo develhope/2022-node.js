@@ -1,0 +1,18 @@
+{
+  "name": "12-03-db-library-orm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Simon Plenderleith <simon@simonplend.co.uk> (https://simonplend.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^3.15.1"
+  },
+  "devDependencies": {
+    "prisma": "^3.15.1"
+  }
+}

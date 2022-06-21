@@ -1,0 +1,16 @@
+{
+  "name": "12-03-db-library-query-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knexfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Simon Plenderleith <simon@simonplend.co.uk> (https://simonplend.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^2.1.0",
+    "sqlite3": "^5.0.8"
+  }
+}
