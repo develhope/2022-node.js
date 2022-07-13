@@ -4,17 +4,16 @@
 
 > _After Unit 4, Lesson 2: Test the HTTP server_
 
-Our HTTP server sends an HTML response body.
+Create an HTTP server that sends an HTML response body with your own message.
 
-1. Replace the text in the HTML with your own message.
-2. Run the server and use your web browser to test your changes.
+Run the server and use your web browser to make a request to it.
 
 ## Exercise 2: Send JSON from Mars
 
 > _After Unit 4, Lesson 3: Send a JSON response_
 
-Our HTTP server now sends a JSON response body.
+Create an HTTP server that sends a JSON response body: `{ location: "Mars" }`
 
-1. Change the `location` in the response to `"Mars"`.
-2. Run the server and make a request to it with `curl` using the `--verbose` flag.
-3. What is the value of the `Content-Length` response header?
+Run the server and make a request to it with `curl` using the `--verbose` flag.
+
+What is the value of the `Content-Length` response header? Include this value when you submit your code solution.
